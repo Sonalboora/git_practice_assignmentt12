@@ -1,7 +1,7 @@
 let i=2;
 
 while(i<num){
-if(num%i==1){
+if(num%i==0){
 console.log("No)
 break;
 }
